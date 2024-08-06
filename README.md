@@ -1,0 +1,2 @@
+# ilkpythonkurulumlari
+veri yapilarina giris
